@@ -1,0 +1,102 @@
+.nav {
+  list-style: none;
+}
+.travel {
+  color: gray;
+  font-size: x-large;
+  font-family: Lora;
+  text-decoration: none;
+  margin-left: 900px;
+}
+.music {
+  font-family: Lora;
+  text-decoration: none;
+  font-size: x-large;
+  color: gray;
+  margin-left: 750px;
+}
+.photodiary {
+  font-family: Lora;
+  text-decoration: none;
+  margin-left: 375px;
+  font-size: x-large;
+  color: gray;
+}
+.lifestyle {
+  margin-left: 200px;
+  font-size: x-large;
+  color: gray;
+  font-family: Lora;
+  text-decoration: none;
+}
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: medium;
+}
+h3 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: medium;
+}
+.More-than {
+  width: 500px;
+  height: 100px;
+  display: inline-block;
+  box-sizing: content-box;
+  margin-left: 100px;
+}
+.Life-tastes {
+  width: 500px;
+  height: 100px;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 100px;
+  margin-left: 200px;
+}
+.American {
+  width: 500px;
+  height: 100px;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 100px;
+}
+.A-day {
+  width: 500px;
+  height: 100px;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 100px;
+}
+.Top-10 {
+  width: 500px;
+  height: 100px;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 100px;
+}
+.Cold-winter {
+  width: 500px;
+  height: 100px;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 100px;
+}
+main {
+  background: linear-gradient(45deg, #eecfba, #c5dde8);
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+body {
+  background: linear-gradient(45deg, #eecfba, #c5dde8);
+}
+.button {
+  color: grey;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  width: 125px;
+  height: 50px;
+  margin: 10px;
+  margin-left: 650px;
+}
