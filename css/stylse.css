@@ -1,13 +1,17 @@
+.container__menu {
+  margin: auto;
+  width: 1050px;
+  height: 100px;
+}
 .menu {
   list-style: none;
-  height: 190px;
-  width: 1200px;
-  margin-left: 200px;
+  padding: 0 auto;
+  margin: 0 auto;
 }
 .list_item {
   display: inline;
   margin-left: 50px;
-   height: 190px;
+  height: 190px;
   width: 1200px;
 }
 .link_menu {
@@ -22,7 +26,7 @@
   color: blue;
 }
 .container {
-  margin: 0 auto;
+  margin: 61px auto;
   width: 1050px;
   height: 1500px;
 }
@@ -32,12 +36,17 @@
   margin: 11px;
   font-family: 'Playfair Display', serif;
 }
+p {
+  width: 418px;
+}
 .button {
   color: grey;
-  font-family:
-  width: 125px;
-  height: 50px;
-  margin: 10px;
-  margin-left: 675px;
+  width: 164px;
+  height: 60px;
+  margin: 0auto;
+  display: block;
   font-family: 'Playfair Display', serif;
+}
+li {
+  width: 418px;
 }
