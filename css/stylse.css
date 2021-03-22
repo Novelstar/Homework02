@@ -1,7 +1,5 @@
-.container__menu {
+.container {
   margin: auto;
-  width: 1050px;
-  height: 100px;
 }
 .menu {
   list-style: none;
@@ -10,9 +8,8 @@
 }
 .list_item {
   display: inline;
-  margin-left: 50px;
-  height: 190px;
   width: 1200px;
+  margin-right: 50px;
 }
 .link_menu {
   display: inline-block;
@@ -26,9 +23,8 @@
   color: blue;
 }
 .container {
-  margin: 61px auto;
+  margin: auto;
   width: 1050px;
-  height: 1500px;
 }
 .paragraph {
   display: inline-block;
@@ -43,7 +39,7 @@ p {
   color: grey;
   width: 164px;
   height: 60px;
-  margin: 0auto;
+  margin: auto;
   display: block;
   font-family: 'Playfair Display', serif;
 }
